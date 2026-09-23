@@ -1,6 +1,7 @@
 langchain
 langchain-core
 langchain-community
+langchain_huggingface
 
 # LLM Providers
 
