@@ -1,0 +1,5 @@
+Deep learning is a type of machine learning 
+that teaches computers to perform tasks by learning from examples, 
+much like humans do. Imagine teaching a computer to recognize cats: 
+instead of telling it to look for whiskers, ears, and a tail, 
+you show it thousands of pictures of cats. 
